@@ -1,119 +1,46 @@
-<h1 align="center">Hi 👋, I'm Ahmed Salih A C</h1>
-<h3 align="center">Product Engineering Lead | Mobile Architect | React Native Specialist</h3>
+# Lubna A M - Senior Software Quality Assurance Engineer
 
-<p align="center">
-Building scalable, high-performance mobile systems 🚀
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lubna%20A%20M-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lubnaaam)
 
----
+## About Me
+Senior Software Quality Assurance Engineer with 5+ years of experience in automation and manual testing across web, mobile, and API platforms. Skilled in Selenium, Java, Python, CI/CD pipelines, and DevSecOps practices. Passionate about delivering high-quality software and building scalable automation frameworks.
 
-## 🧠 About Me
+**Current Role:**  
+Next Technology, JLT – Dubai, UAE  
+- Designing and executing UI, API, and SQL test cases  
+- Maintaining Java-based automation frameworks  
+- Supporting CI/CD pipelines & Agile delivery cycles  
 
-I am a Mobile Architect and Product Engineering Lead with **10+ years of experience** in mobile development, including **6+ years specializing in high-scale React Native applications**.
-
-I focus on building production-grade mobile systems that are:
-
-- ⚡ Performance-optimized (TTR, FPS stability, bundle size)
-- 🔐 Security-aligned (OWASP, SSL Pinning, Secure Storage, JWT)
-- 🔁 CI/CD automated (GitHub Actions, Fastlane)
-- 📊 Production-monitored (Crash reporting & analytics)
-- 🏗️ Architected for long-term scalability
-
-I don't just build apps, 
-I build systems and teams that scale.
+**Core Skills:**  
+- Programming: Java, Python, JavaScript  
+- Automation: Selenium WebDriver, Cypress  
+- Testing: REST API, UI/UX, End-to-End, Regression, Functional  
+- Tools: Jenkins, Git, Maven, Postman, SQL  
 
 ---
 
-## 🏗️ Core Engineering Focus
+## GitHub Projects
+Below are some of the key projects demonstrating my expertise in QA, SDET, and Automation:
 
-### 🚀 Mobile Architecture
-- Modular & scalable React Native architecture
-- Clean separation of concerns
-- REST optimization & payload efficiency
-- Offline-first capabilities
-- Server-state management using TanStack Query
-- Smart caching & background synchronization strategies
+### 1. 666win Game App
+**Description:** Tested gaming logic, UI interaction, and payment workflows under concurrency.  
+**Technologies:** Selenium WebDriver, Java, TestNG  
+**Highlights:**  
+- Automated critical user workflows  
+- Validated payment gateway and transaction concurrency  
+- Maintained CI/CD integration  
 
-### ⚡ Performance Engineering
-- Reduced redundant API calls using intelligent caching via TanStack Query
-- Implemented stale-while-revalidate strategy for seamless UX
-- TTR optimization
-- FPS stabilization
-- Re-render reduction
-- Profiling using Flipper & native tools
-- Bundle size optimization
-
-### 🔐 Mobile Security
-- OWASP-aligned practices
-- SSL Pinning
-- Secure token handling (JWT/OAuth2)
-- Encrypted storage
-- Code obfuscation
-
-### 🔁 DevOps & Automation
-- CI/CD pipelines (GitHub Actions, Fastlane)
-- Automated builds & releases
-- Static analysis & dependency management
+### 2. AIRamool - Motorcycle Rental Platform
+**Description:** E-commerce booking and payment flow testing.  
+**Technologies:** Selenium, Java, API Testing  
+**Highlights:**  
+- Functional and regression testing  
+- Database validation for backend consistency  
+- API automation for booking endpoints  
 
 ---
 
-## 🧰 Tech Stack
-
-### 📱 Mobile
-React Native • Expo • Android (Kotlin/Java) • iOS (Swift/Obj-C)
-
-## 🧠 State & Server-State Management
-
-### 🔄 Client State
-Redux • MobX • Redux Thunk • Context API
-
-### 🌐 Server State (Data Fetching Architecture)
-TanStack Query (React Query) • Query Caching • Background Refetching  
-Optimistic Updates • Infinite Queries • Pagination • Prefetching  
-Offline Support • Request Deduplication • Cache Invalidation Strategies
-
-### 🔐 Security
-JWT • SSL Pinning • Secure Storage
-
-### ⚡ Performance & Tooling
-Flipper • Metro • Gradle • Xcodebuild • Renovate
-
-### 🛠 DevOps
-GitHub Actions • GitLab CI • AppCenter
-
-### 🧠 State & Data Layer
-Redux • MobX • TanStack Query (React Query)
-
-### 🌐 API & Networking
-REST APIs • GraphQL • React Query • Axios
-
----
-
-## 🌍 Open Source Contributions
-
-- Contributed features to Expo ecosystem
-- React Native performance & architecture discussions
-- CI/CD workflow improvements
-- Community engagement & proposal reviews
-
----
-
-## 📈 GitHub Activity
-
-- 900+ contributions in the past year
-- Primarily Pull Requests & code reviews
-- Active in cross-repository collaboration
-
----
-
-## 📫 Connect With Me
-
-🌐 Website: https://adsalihac.me  
-💼 LinkedIn: https://linkedin.com/in/adsalihac  
-🐦 Twitter/X: @adsalihac  
-
----
-
-<p align="center">
-⚡ Engineering excellence is not accidental — it is architected.
-</p>
+## How to Run Tests
+1. Clone the repository:
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
