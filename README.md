@@ -38,9 +38,3 @@ Below are some of the key projects demonstrating my expertise in QA, SDET, and A
 - Database validation for backend consistency  
 - API automation for booking endpoints  
 
----
-
-## How to Run Tests
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
